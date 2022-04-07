@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Spaceybread
 - 👀 I’m interested in making graphs
-- 🌱 I’m currently learning to write code
+- 🌱 I’m currently learning to make programs
 
 
 <!---
