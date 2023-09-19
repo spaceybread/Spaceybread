@@ -1,4 +1,4 @@
-                                                                   ||
+```                                                                    ||
                                                   __..--".          ||
                                  __..--""`._..--"" . . . .`.        ||
                          __..--"". . . . . . .`. . . . . . .`.      ||
@@ -32,7 +32,7 @@
                   \\  `---"   /
                    `.       _/
          _ Seal _    `-..--"
-
+```
 - 👋 Hi, I’m @Spaceybread
 - 👀 I’m interested in looking at random numbers 
 - 🌱 I’m currently learning to make cool graphs
